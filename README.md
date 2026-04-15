@@ -18,3 +18,7 @@ El sistema procesa y muestra en consola tablas estructuradas con los datos deser
 ## 📝 Notas de Implementación
 - Se configuró el servidor para escuchar en la interfaz `0.0.0.0` permitiendo la visibilidad del flujo desde el host externo.
 - Los logs se almacenan temporalmente en `/tmp/kraft-combined-logs` para facilitar la limpieza del entorno de pruebas.
+
+### 📺 Video Explicativo de la Solución
+Puedes ver la explicación detallada del funcionamiento y la ejecución del proyecto en el siguiente enlace:
+[Haz clic aquí para ver el video]()
