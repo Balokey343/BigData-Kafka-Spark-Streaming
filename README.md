@@ -14,3 +14,7 @@ Este proyecto demuestra un flujo completo de datos en tiempo real.
 
 ## 📈 Resultados
 El sistema procesa y muestra en consola tablas estructuradas con los datos deserializados del JSON enviado por Kafka.
+
+## 📝 Notas de Implementación
+- Se configuró el servidor para escuchar en la interfaz `0.0.0.0` permitiendo la visibilidad del flujo desde el host externo.
+- Los logs se almacenan temporalmente en `/tmp/kraft-combined-logs` para facilitar la limpieza del entorno de pruebas.
