@@ -21,4 +21,4 @@ El sistema procesa y muestra en consola tablas estructuradas con los datos deser
 
 ### 📺 Video Explicativo de la Solución
 Puedes ver la explicación detallada del funcionamiento y la ejecución del proyecto en el siguiente enlace:
-[Haz clic aquí para ver el video]()
+[Haz clic aquí para ver el video](https://www.youtube.com/watch?v=23zbDJgIFdg)
